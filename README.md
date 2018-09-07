@@ -1,4 +1,4 @@
-# vue-or-die
+# vue-a11y
 
 > A Vue.js project
 
